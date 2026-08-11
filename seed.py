@@ -37,7 +37,7 @@ INITIAL_CONSUMICIONS = [
      
        "nombre": "Calimotxo",
        "precio_unitario": 3,
-       "imagen_url": "/static/img/calimotxo.png",
+       "imagen_url": "/static/img/cali.png",
        "activo": True,
       
      }
