@@ -1,0 +1,44 @@
+{
+  "consumiciones": [
+    {
+      "id": 1,
+      "nombre": "Caña / Cervexa",
+      "precio_unitario": 2,
+      "imagen_url": "/static/img/canha.png",
+      "activo": true,
+      "created_at": "2026-08-11T09:59:04.246Z"
+    },
+    {
+      "id": 2,
+      "nombre": "Auga",
+      "precio_unitario": 1,
+      "imagen_url": "/static/img/agua.png",
+      "activo": true,
+      "created_at": "2026-08-11T09:59:04.253Z"
+    },
+    {
+      "id": 3,
+      "nombre": "Refresco",
+      "precio_unitario": 2,
+      "imagen_url": "/static/img/refresco.png",
+      "activo": true,
+      "created_at": "2026-08-11T09:59:04.253Z"
+    },
+    {
+      "id": 4,
+      "nombre": "Copa / Combinado",
+      "precio_unitario": 5,
+      "imagen_url": "/static/img/copa.png",
+      "activo": true,
+      "created_at": "2026-08-11T09:59:04.253Z"
+    },
+    {
+      "id": 5,
+      "nombre": "Calimotxo",
+      "precio_unitario": 3,
+      "imagen_url": "/static/img/calimotxo.png",
+      "activo": true,
+      "created_at": "2026-08-11T09:59:04.253Z"
+    }
+  ]
+}

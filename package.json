@@ -1,0 +1,13 @@
+{
+  "name": "cantina-manager",
+  "version": "1.0.0",
+  "description": "Aplicación web para a xestión de pedidos en cantinas e eventos en galego.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["cantina", "bar", "pos", "galego", "eventos"],
+  "author": "Antigravity",
+  "license": "MIT"
+}
